@@ -1,10 +1,11 @@
-![](content\aist-lab-main-image.png)
+<p align="center">
+  <img src="content/aist-lab-main-image.png" alt="AIST Lab main banner">
+</p>
 
-# AIST Lab
+> [!TIP]
+> Cобираем AI-системы шаг за шагом.
 
-> **AI Search and Tools Lab** — собираем AI-системы шаг за шагом.
-
-## 🚀 Что такое AIST Lab
+# 🚀 AIST Lab
 
 AIST Lab — это практическая open-source платформа, где вы шаг за шагом собираете реальные AI-системы.
 
@@ -13,7 +14,7 @@ AIST Lab — это практическая open-source платформа, г�
 > [!NOTE]
 > **Стек** — Python, FastAPI, Qdrant, PostgreSQL, Docker + docker-compose.
 
-### 🗺 Как устроено обучение
+## 🗺 Как устроено обучение
 
 Платформа состоит из модулей, каждый — короткие лабораторные с краткой теорией и готовым результатом.
 
